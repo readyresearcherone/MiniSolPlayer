@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/TranslatingCode/MiniSol-Player/master/images/banner-2.png)
+![alt text](https://github.com/readyresearcherone/MiniSolPlayer/blob/c137d003456848a59850512a285d0febe2436c55/images/banner-2.png)
 
 ----
 
@@ -19,7 +19,7 @@ I've always been a person that liked to create things that I could use in my dai
 - [x] Working playlist
 - [x] Play/pause/resume/next/previous controls
 
-![alt text](https://raw.githubusercontent.com/TranslatingCode/MiniSol-Player/master/images/usage.png)
+![alt text](https://github.com/readyresearcherone/MiniSolPlayer/blob/c137d003456848a59850512a285d0febe2436c55/images/usage.png)
 
 ----
 
